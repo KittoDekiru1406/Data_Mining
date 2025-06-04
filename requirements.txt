@@ -1,0 +1,9 @@
+numpy
+rasterio
+pandas
+scikit-learn
+PyYAML
+Pillow
+scikit-image
+unidecode
+xarray

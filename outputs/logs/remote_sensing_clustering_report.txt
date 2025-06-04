@@ -1,0 +1,7 @@
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\textbf{FCM} & \textbf{Time} & \textbf{DB$\triangledown$} & \textbf{PC$\Delta$} & \textbf{CE$\triangledown$} & \textbf{S$\triangledown$} & \textbf{CH$\Delta$} & \textbf{FHV$\Delta$} & \textbf{CS$\triangledown$} \\ \hline
+FCM C=6 & 224.362  & 1.049 & 0.461 & 1.106 & 471368 & 675405 & 0.461 & 0.45 \\ \hline
+
+\end{tabular}

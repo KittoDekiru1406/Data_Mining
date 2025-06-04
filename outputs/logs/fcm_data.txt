@@ -1,0 +1,9 @@
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\textbf{FCM} & \textbf{Size} & \textbf{C} & \textbf{Time} & \textbf{DB$\triangledown$} & \textbf{PC$\Delta$} & \textbf{CE$\triangledown$} & \textbf{S$\triangledown$} & \textbf{CH$\Delta$} & \textbf{SI$\Delta$} & \textbf{FHV$\Delta$} & \textbf{CS$\triangledown$} \\ \hline
+602 nt  & 13611x16 & 7 & 3.145 & 0.5 & 0.732 & 0.546 & 3326.024 & 60757.436 & 0.54 & 0.732 & 0.244 \\ \hline
+109 nt  & 177x13 & 3 & 0.009 & 0.79 & 0.697 & 0.542 & 33.104 & 224.476 & 0.408 & 0.697 & 0.187 \\ \hline
+53 nt  & 149x4 & 3 & 0.003 & 0.67 & 0.782 & 0.398 & 20.559 & 548.578 & 0.547 & 0.782 & 0.138 \\ \hline
+
+\end{tabular}
